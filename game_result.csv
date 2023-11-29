@@ -1,0 +1,16 @@
+Bot,X,Human
+Human,O,Human
+Bot,X,Human
+Bot,O,Bot
+Human,X,Human
+Human,O,Human
+Human,O,Human
+Bot,X,Human
+Bot,O,Bot
+Bot,X,Human
+Bot,X,Human
+Human,X,Human
+Bot,Draw,None
+Human,Draw,None
+Bot,Draw,None
+Bot,X,Human
