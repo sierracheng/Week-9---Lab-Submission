@@ -1,6 +1,3 @@
-你是一位 py 专家，它包含两部分代码 cli.py 和 logic.py。请先理解以下代码：
-
-```py
 # cli.py
 
 import logging
